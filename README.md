@@ -1,2 +1,2 @@
-# generative-AI-classes
-Aulas de IA Generativa 
+# Análise de Sentimentos com Language Studio no Azure AI
+Aulas de Analises de Sentimentos com Azure Ai
